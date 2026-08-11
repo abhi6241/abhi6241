@@ -128,6 +128,10 @@
 
 <br>
 
+```css
+  Thanks for visiting my profile! Let's build something amazing together! 🚀
+```
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhi6241&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D&text_color=FFFFFF" />
   <br><br>
